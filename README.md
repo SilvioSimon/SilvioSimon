@@ -29,9 +29,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=silviosimon&layout=compact&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=silviosimon&show_icons=true&theme=dracula&hide_border=false" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=silviosimon&layout=compact&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
+![GitHub Stats](https://www.statsforgit.com/api?username=silviosimon)
+
 ###
 
-![GitHub Stats](https://www.statsforgit.com/api?username=silviosimon)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/silvio-simon-it/" target="_blank">
