@@ -1,9 +1,17 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-###
+<h1 align="center">Hi 👋, I'm Silvio Simon</h1>
+<h3 align="center">Software Developer | Aviation Tech Specialist | Lifelong Learner</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SilvioSimon&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github" alt="Follow"/>
+</p>
+<br>
+
+<h2 align="center">SKILL</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -18,21 +26,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
-
-<h2 align="center">_______________________________________<br>👋 Hi, I'm Silvio Simon 👋<br><br>Welcome to my GitHub profile. <br>Here I share projects, experiments, <br>and things I am currently learning in software development.<br>______________________________________________________________________________</h2>
-
-###
-
+<br>
+<h2 align="center">PERSONAL</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=silviosimon&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviosimon&layout=compact" />
-
+  <table width="100%">
+    <tr>
+      <td width="33%" valign="top" align="center">
+          🔭 <br>
+        I’m currently working on<br>
+          Web applications with JavaScript
+      <td width="33%" valign="top" align="center">
+          🌱 <br>
+        I’m currently learning<br>
+          Angular & TypeScript
+      </td>
+      <td width="33%" valign="top" align="center">
+         ⚡ <br>
+          About me:<br>
+          Interested in technology and innovation.<br>
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+<br>
 
-
+<h2 align="center"> HOW TO REACH ME </h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/silvio-simon-it/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -45,4 +64,10 @@
   </a>
 </div>
 
-###
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFvczhzN2VnM3Bqd21nMDBjZGc3cDE5cGtjNzRnMGVnZG84NHI0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3F94HWYH3zQsD2AQNe/giphy.gif" width="64"> <em><b>I love connecting with different people</b> :)</em> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFvczhzN2VnM3Bqd21nMDBjZGc3cDE5cGtjNzRnMGVnZG84NHI0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3F94HWYH3zQsD2AQNe/giphy.gif" width="64">
+</div>
+<br>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM4bXJ4cG11NDRhbW00M3IzODdoamxyMWM0eTU5NDljcnB3Mm1peSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JlJJU8Rd2QP4qxjNBc/giphy.gif" alt="Computer_nerd" width="200"/>
+  
