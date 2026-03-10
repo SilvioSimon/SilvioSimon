@@ -25,13 +25,9 @@
 ###
 
 <div align="center">
-  <img src="https://www.statsforgit.com/api?username=silviosimon" alt="GitHub stats" />
-  <img src="https://www.statsforgit.com/api/top-langs?username=silviosimon" alt="Top languages" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=silviosimon&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviosimon&layout=compact" />
 
-<div align="center">
-  <img src="https://www.statsforgit.com/api?username=silviosimon" alt="GitHub stats" />
-  <img src="https://www.statsforgit.com/api/top-langs?username=silviosimon" alt="Top languages" />
 </div>
 
 ###
