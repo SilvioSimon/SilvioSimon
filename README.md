@@ -9,7 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=SilvioSimon&color=blue" alt="Profile views"/>
   <img src="https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github" alt="Follow"/>
 </p>
-<br>
 
 <h2 align="center">SKILL</h2>
 <div align="center">
@@ -26,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-<br>
 <h2 align="center">PERSONAL</h2>
 <div align="center">
   <table width="100%">
@@ -49,8 +47,6 @@
   </table>
 </div>
 
-<br>
-
 <h2 align="center"> HOW TO REACH ME </h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/silvio-simon-it/" target="_blank">
@@ -65,7 +61,7 @@
 </div>
 
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFvczhzN2VnM3Bqd21nMDBjZGc3cDE5cGtjNzRnMGVnZG84NHI0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3F94HWYH3zQsD2AQNe/giphy.gif" width="64"> <em><b>I love connecting with different people</b> :)</em> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFvczhzN2VnM3Bqd21nMDBjZGc3cDE5cGtjNzRnMGVnZG84NHI0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3F94HWYH3zQsD2AQNe/giphy.gif" width="64">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFvczhzN2VnM3Bqd21nMDBjZGc3cDE5cGtjNzRnMGVnZG84NHI0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3F94HWYH3zQsD2AQNe/giphy.gif" width="64"> <em><b>I love connecting with different people</b> :)</em> <img     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFvczhzN2VnM3Bqd21nMDBjZGc3cDE5cGtjNzRnMGVnZG84NHI0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3F94HWYH3zQsD2AQNe/giphy.gif" width="64">
 </div>
 <br>
 <p align="center">
