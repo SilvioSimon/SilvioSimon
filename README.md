@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="center">_______________________________________<br>👋 Hi, I'm Silvio 👋<br><br>Welcome to my GitHub profile. <br>Here I share projects, experiments, <br>and things I am currently learning in software development.<br>______________________________________________________________________________</h2>
+<h2 align="center">_______________________________________<br>👋 Hi, I'm Silvio Simon 👋<br><br>Welcome to my GitHub profile. <br>Here I share projects, experiments, <br>and things I am currently learning in software development.<br>______________________________________________________________________________</h2>
 
 ###
 
