@@ -66,4 +66,9 @@
 <br>
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM4bXJ4cG11NDRhbW00M3IzODdoamxyMWM0eTU5NDljcnB3Mm1peSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JlJJU8Rd2QP4qxjNBc/giphy.gif" alt="Computer_nerd" width="200"/>
-  
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SilvioSimon&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=80&date_format=j%20M%5B%20Y%5D&order=3" height="650" alt="streak graph"  />
+</div>
+
+###
