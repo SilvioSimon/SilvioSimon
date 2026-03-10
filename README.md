@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="center">_______________________________________<br>Hi, I'm Silvio 👋<br><br>Welcome to my GitHub profile. <br>Here I share projects, experiments, <br>and things I am currently learning in software development.<br>______________________________________________________________________________</h2>
+<h2 align="center">_______________________________________<br>👋 Hi, I'm Silvio 👋<br><br>Welcome to my GitHub profile. <br>Here I share projects, experiments, <br>and things I am currently learning in software development.<br>______________________________________________________________________________</h2>
 
 ###
 
@@ -42,9 +42,6 @@
   </a>
   <a href="https://discord.gg/3f6Fgm7W" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://wa.me/41786596615" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
