@@ -1,9 +1,11 @@
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Silvio%20Simon&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&animation=fadeIn"/>
 </div>
-
-<h1 align="center">Hi 👋, I'm Silvio Simon</h1>
 <h3 align="center">Software Developer | Aviation Tech Specialist | Lifelong Learner</h3>
+<br>
+
+<h2 align="center">STATISTIC</h2>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SilvioSimon&color=blue" alt="Profile views"/>
@@ -16,7 +18,7 @@
 
 <br>
 
-<h2 align="center">SKILL</h2>
+<h2 align="center">TECH STACK</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -33,23 +35,41 @@
 
 <br>
 
-<h2 align="center">PERSONAL</h2>
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+
+<h2 align="center">ABOUT ME</h2>
 <div align="center">
-  <table width="100%">
+I’m passionate about learning and experimenting with new technology. I often focus on small improvements and writing little programs wherever I see gaps. Whether it’s clarifying documentation, fixing tiny bugs, creating mini-tools, or adding helpful examples, I like making things a bit easier for the next person. A clean setup guide with real-world examples always makes me smile.
+</div>
+
+<br>
+
+<h2 align="center">🎓 CERTIFICATION</h2>
+
+<div align="center">
+  <table>
     <tr>
-      <td width="33%" valign="top" align="center">
-          🔭 <br>
-        I’m currently working on<br>
-          Web applications with JavaScript
-      <td width="33%" valign="top" align="center">
-          🌱 <br>
-        I’m currently learning<br>
-          Angular & TypeScript
+      <td align="center">
+        <img src="https://img.shields.io/badge/CompTIA-Security%2B-orange?style=flat-square&logo=comptia" height="40"/><br>
+        Security+
       </td>
-      <td width="33%" valign="top" align="center">
-         ⚡ <br>
-          About me:<br>
-          Interested in technology and innovation.<br>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CompTIA-Network%2B-blue?style=flat-square&logo=comptia" height="40"/><br>
+        Network+
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/LPI-Linux%20Essentials-black?style=flat-square&logo=linux" height="40"/><br>
+        LPI Linux Essentials
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="20"/><br>
+        Microsoft 365 Fundamentals (MS-900)
       </td>
     </tr>
   </table>
@@ -71,10 +91,5 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFvczhzN2VnM3Bqd21nMDBjZGc3cDE5cGtjNzRnMGVnZG84NHI0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3F94HWYH3zQsD2AQNe/giphy.gif" width="64"> <em><b>I love connecting with different people</b> :)</em> <img     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFvczhzN2VnM3Bqd21nMDBjZGc3cDE5cGtjNzRnMGVnZG84NHI0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3F94HWYH3zQsD2AQNe/giphy.gif" width="64">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFvczhzN2VnM3Bqd21nMDBjZGc3cDE5cGtjNzRnMGVnZG84NHI0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3F94HWYH3zQsD2AQNe/giphy.gif" width="64"> <em><b>💬 I enjoy connecting with people interested in technology.</b> :)</em> <img     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFvczhzN2VnM3Bqd21nMDBjZGc3cDE5cGtjNzRnMGVnZG84NHI0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3F94HWYH3zQsD2AQNe/giphy.gif" width="64">
 </div>
-<br>
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM4bXJ4cG11NDRhbW00M3IzODdoamxyMWM0eTU5NDljcnB3Mm1peSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JlJJU8Rd2QP4qxjNBc/giphy.gif" alt="Computer_nerd" width="100"/>
-
-
