@@ -48,17 +48,17 @@ I’m passionate about learning and experimenting with new technology. I often f
 
 <br>
 
-<h2 align="center">🎓 CERTIFICATION</h2>
+<h2 align="center">CERTIFICATION</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/CompTIA-Security%2B-orange?style=flat-square&logo=comptia" height="40"/><br>
+        <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square&logo=comptia" height="40"/><br>
         Security+
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/CompTIA-Network%2B-blue?style=flat-square&logo=comptia" height="40"/><br>
+        <img src="https://img.shields.io/badge/CompTIA-Network%2B-red?style=flat-square&logo=comptia" height="40"/><br>
         Network+
       </td>
     </tr>
@@ -68,8 +68,8 @@ I’m passionate about learning and experimenting with new technology. I often f
         LPI Linux Essentials
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="20"/><br>
-        Microsoft 365 Fundamentals (MS-900)
+        <img src="https://img.shields.io/badge/Microsoft 365-%20Fundamentals-0078D4?style=flat-square&logo=microsoft" height="40"/><br>
+        Microsoft 365 Certified (MS-900)
       </td>
     </tr>
   </table>
@@ -90,8 +90,10 @@ I’m passionate about learning and experimenting with new technology. I often f
   </a>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFvczhzN2VnM3Bqd21nMDBjZGc3cDE5cGtjNzRnMGVnZG84NHI0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3F94HWYH3zQsD2AQNe/giphy.gif" width="64"> <em><b>💬 I enjoy connecting with people interested in technology.</b> :)</em> <img     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFvczhzN2VnM3Bqd21nMDBjZGc3cDE5cGtjNzRnMGVnZG84NHI0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3F94HWYH3zQsD2AQNe/giphy.gif" width="64">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFvczhzN2VnM3Bqd21nMDBjZGc3cDE5cGtjNzRnMGVnZG84NHI0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3F94HWYH3zQsD2AQNe/giphy.gif" width="32"> <em><b>I enjoy connecting with people interested in technology.</b> :)</em> <img     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFvczhzN2VnM3Bqd21nMDBjZGc3cDE5cGtjNzRnMGVnZG84NHI0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3F94HWYH3zQsD2AQNe/giphy.gif" width="32">
 </div>
 
 <br> <p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM4bXJ4cG11NDRhbW00M3IzODdoamxyMWM0eTU5NDljcnB3Mm1peSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JlJJU8Rd2QP4qxjNBc/giphy.gif" alt="Computer_nerd" width="300"/>
