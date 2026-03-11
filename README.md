@@ -6,10 +6,11 @@
 
 <h2 align="center">STATISTIC</h2>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SilvioSimon&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github" alt="Follow"/>
+    <a href="https://github.com/SilvioSimon">
+      <img src="https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github" alt="Follow"/>
+    </a>
 </p>
 
 <div align="center">
@@ -54,22 +55,34 @@ I’m passionate about learning and experimenting with new technology. I often f
   <table>
     <tr>
       <td align="center">
-        <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="60"/><br>
-        CompTIA Security+
+        <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">
+          <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="60"/>
+        </a>
+          <br>
+          CompTIA Security+
       </td>
       <td align="center">
-        <img src="https://images.credly.com/size/110x110/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" height="60"/><br>
-        CompTIA Network+
+        <a href="https://www.credly.com/org/comptia/badge/comptia-network-ce-certification.1">
+          <img src="https://images.credly.com/size/110x110/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" height="60"/>
+        </a>
+          <br>
+          CompTIA Network+
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://images.credly.com/size/340x340/images/64199ea4-77c5-4bd5-8652-08c357b3330a/blob" height="50"/><br>
-        LPI Linux Essentials
+          <a href="https://www.credly.com/org/linux-professional-institute/badge/linux-essentials-certificate">
+            <img src="https://images.credly.com/size/340x340/images/64199ea4-77c5-4bd5-8652-08c357b3330a/blob" height="50"/>
+          </a>
+            <br>
+            LPI Linux Essentials
       </td>
       <td align="center">
-        <img src="https://learn.microsoft.com/de-ch/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="50"/><br>
-        Microsoft 365 Certified
+        <a href="https://learn.microsoft.com/de-ch/users/silviosimon-7317/credentials/c392a40a017ab9c7?ref=https%3A%2F%2Fwww.linkedin.com%2F">
+          <img src="https://learn.microsoft.com/de-ch/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="50"/>
+        </a>
+          <br>
+          Microsoft 365 Certified
       </td>
     </tr>
   </table>
@@ -102,7 +115,7 @@ I’m passionate about learning and experimenting with new technology. I often f
  <em><b>I enjoy connecting with people interested in technology.</b> :)</em> <img   
 </div>
 
-<br> <p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM4bXJ4cG11NDRhbW00M3IzODdoamxyMWM0eTU5NDljcnB3Mm1peSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JlJJU8Rd2QP4qxjNBc/giphy.gif" alt="Computer_nerd" width="300"/>
+<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM4bXJ4cG11NDRhbW00M3IzODdoamxyMWM0eTU5NDljcnB3Mm1peSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JlJJU8Rd2QP4qxjNBc/giphy.gif" alt="Computer_nerd" width="100"/>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&text=%20&fontSize=1&fontAlign=50&fontAlignY=35&color=gradient&animation=fadeIn&section=footer"/>
