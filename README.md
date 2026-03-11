@@ -115,8 +115,6 @@ I’m passionate about learning and experimenting with new technology. I often f
  <em><b>I enjoy connecting with people interested in technology.</b> :)</em> <img   
 </div>
 
-<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM4bXJ4cG11NDRhbW00M3IzODdoamxyMWM0eTU5NDljcnB3Mm1peSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JlJJU8Rd2QP4qxjNBc/giphy.gif" alt="Computer_nerd" width="100"/>
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&text=%20&fontSize=1&fontAlign=50&fontAlignY=35&color=gradient&animation=fadeIn&section=footer"/>
+  <img width="100%" src="https://64.media.tumblr.com/tumblr_lp0f2fIhnF1qa2ip8o1_1280.gifv"/>
 </div>
