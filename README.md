@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SilvioSimon&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=80&date_format=j%20M%5B%20Y%5D&order=3" height="650" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=SilvioSimon&theme=github-dark-blue&hide_border=true&border_radius=80" height="220" alt="GitHub streak stats"/>
 </div>
 
 <br>
