@@ -95,6 +95,16 @@ I’m passionate about learning and experimenting with new technology. I often f
 
 <br>
 
+<h2 align="center">INTERESTS</h2>
+<div align="center">
+💻 Software development |
+🔐 Cybersecurity |  
+✈️ Aviation technology (Software) |
+📚 Information Technology <br>
+</div>
+
+<br>
+
 <h2 align="center"> HOW TO REACH ME </h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/silvio-simon-it/" target="_blank">
