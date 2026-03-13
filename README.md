@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SilvioSimon&color=blue" alt="Profile views"/>
-    <a href="https://github.com/SilvioSimon">
+    <a href="https://github.com/SilvioSimon?tab=following">
       <img src="https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github" alt="Follow"/>
     </a>
 </p>
