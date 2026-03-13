@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Silvio%20Simon&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&animation=fadeIn"/>
 </div>
-<h3 align="center">Software Developer | Aviation Tech Specialist | Lifelong Learner</h3>
+<h3 align="center">Software Developer | Aviation Tech Specialist | Cybersecurity Enthusiast</h3>
 <br>
 
 <h2 align="center">STATISTIC</h2>
