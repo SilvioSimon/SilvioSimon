@@ -36,19 +36,6 @@
 
 <br>
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-
-<h2 align="center">ABOUT ME</h2>
-<div align="center">
-I’m passionate about learning and experimenting with new technology. I often focus on small improvements and writing little programs wherever I see gaps. Whether it’s clarifying documentation, fixing tiny bugs, creating mini-tools, or adding helpful examples, I like making things a bit easier for the next person. A clean setup guide with real-world examples always makes me smile.
-</div>
-
-<br>
-
 <h2 align="center">CERTIFICATION</h2>
 
 <div align="center">
@@ -92,6 +79,18 @@ I’m passionate about learning and experimenting with new technology. I often f
   <a href="https://www.credly.com/users/silvio-simon" target="_blank" style="font-size:24px; font-weight:bold; color:#0078D4; text-decoration:none;">
     View My Credly Badges
   </a>
+</div>
+
+<br>
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<h2 align="center">ABOUT ME</h2>
+<div align="center">
+I’m passionate about learning and experimenting with new technology. I often focus on small improvements and writing little programs wherever I see gaps. Whether it’s clarifying documentation, fixing tiny bugs, creating mini-tools, or adding helpful examples, I like making things a bit easier for the next person. A clean setup guide with real-world examples always makes me smile.
 </div>
 
 <br>
