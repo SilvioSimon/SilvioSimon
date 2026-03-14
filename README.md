@@ -1,10 +1,12 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Silvio%20Simon&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Silvio%20Simon&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&animation=fadeIn" alt="Silvio Simon profile banner"/>
 </div>
+
 <h3 align="center">Software Developer | Aviation Tech Specialist | Cybersecurity Enthusiast</h3>
+
 <br>
 
-<h2 align="center">STATISTIC</h2>
+<h2 align="center">STATISTICS</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SilvioSimon&color=blue" alt="Profile views"/>
@@ -20,6 +22,7 @@
 <br>
 
 <h2 align="center">TECH STACK</h2>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -43,14 +46,14 @@
     <tr>
       <td align="center">
         <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">
-          <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="60"/>
+          <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="60" alt="comptia security"/>
         </a>
           <br>
           CompTIA Security+
       </td>
       <td align="center">
         <a href="https://www.credly.com/org/comptia/badge/comptia-network-ce-certification.1">
-          <img src="https://images.credly.com/size/110x110/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" height="60"/>
+          <img src="https://images.credly.com/size/110x110/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" height="60" alt="comptia network"/>
         </a>
           <br>
           CompTIA Network+
@@ -59,14 +62,14 @@
     <tr>
       <td align="center">
           <a href="https://www.credly.com/org/linux-professional-institute/badge/linux-essentials-certificate">
-            <img src="https://images.credly.com/size/340x340/images/64199ea4-77c5-4bd5-8652-08c357b3330a/blob" height="50"/>
+            <img src="https://images.credly.com/size/340x340/images/64199ea4-77c5-4bd5-8652-08c357b3330a/blob" height="50" alt="comptia linux lpi essential certificate"/>
           </a>
             <br>
             LPI Linux Essentials
       </td>
       <td align="center">
         <a href="https://learn.microsoft.com/de-ch/users/silviosimon-7317/credentials/c392a40a017ab9c7?ref=https%3A%2F%2Fwww.linkedin.com%2F">
-          <img src="https://learn.microsoft.com/de-ch/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="50"/>
+          <img src="https://learn.microsoft.com/de-ch/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="50" alt="microsoft certificate ms-900"/>
         </a>
           <br>
           Microsoft 365 Certified
@@ -76,7 +79,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.credly.com/users/silvio-simon" target="_blank" style="font-size:24px; font-weight:bold; color:#0078D4; text-decoration:none;">
+  <a href="https://www.credly.com/users/silvio-simon">
     View My Credly Badges
   </a>
 </div>
@@ -89,18 +92,20 @@
 </summary>
 
 <h2 align="center">ABOUT ME</h2>
+
 <div align="center">
-I’m passionate about learning and experimenting with new technology. I often focus on small improvements and writing little programs wherever I see gaps. Whether it’s clarifying documentation, fixing tiny bugs, creating mini-tools, or adding helpful examples, I like making things a bit easier for the next person. A clean setup guide with real-world examples always makes me smile.
+  I’m passionate about learning and experimenting with new technology. I often focus on small improvements and writing little programs wherever I see gaps. Whether it’s clarifying documentation, fixing tiny bugs, creating mini-tools, or adding helpful examples, I like making things a bit easier for the next person. A   clean setup guide with real-world examples always makes me smile.
 </div>
 
 <br>
 
 <h2 align="center">INTERESTS</h2>
+
 <div align="center">
-💻 Software development |
-🔐 Cybersecurity |  
-✈️ Aviation technology (Software) |
-🌐 Information Technology <br>
+  💻 Software development |
+  🔐 Cybersecurity |  
+  ✈️ Aviation technology (Software) |
+  🌐 Information Technology <br>
 </div>
 
 <br>
@@ -121,9 +126,9 @@ I’m passionate about learning and experimenting with new technology. I often f
 <br>
 
 <div align="center">
- <em><b>I enjoy connecting with people interested in technology.</b> :)</em> <img   
+ <em><b>I enjoy connecting with people interested in technology.</b> :)</em> 
 </div>
 
 <div align="center">
-  <img width="100%" src="https://64.media.tumblr.com/tumblr_lp0f2fIhnF1qa2ip8o1_1280.gifv"/>
+  <img width="100%" src="https://64.media.tumblr.com/tumblr_lp0f2fIhnF1qa2ip8o1_1280.gif" alt="footer gif"/>
 </div>
