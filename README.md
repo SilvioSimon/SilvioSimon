@@ -100,7 +100,7 @@ I’m passionate about learning and experimenting with new technology. I often f
 💻 Software development |
 🔐 Cybersecurity |  
 ✈️ Aviation technology (Software) |
-📚 Information Technology <br>
+🌐 Information Technology <br>
 </div>
 
 <br>
