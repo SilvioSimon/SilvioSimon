@@ -104,7 +104,7 @@
 <div align="center">
   💻 Software development |
   🔐 Cybersecurity |  
-  ✈️ Aviation technology (Software) |
+  ✈️ Aviation technology |
   🌐 Information Technology <br>
 </div>
 
