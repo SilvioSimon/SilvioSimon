@@ -46,14 +46,14 @@
     <tr>
       <td align="center">
         <a href="https://www.credly.com/org/comptia/badge/comptia-security-ce-certification">
-          <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="60" alt="comptia security"/>
+          <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="60" alt="comptia security certification"/>
         </a>
           <br>
           CompTIA Security+
       </td>
       <td align="center">
         <a href="https://www.credly.com/org/comptia/badge/comptia-network-ce-certification.1">
-          <img src="https://images.credly.com/size/110x110/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" height="60" alt="comptia network"/>
+          <img src="https://images.credly.com/size/110x110/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" height="60" alt="comptia network certification"/>
         </a>
           <br>
           CompTIA Network+
