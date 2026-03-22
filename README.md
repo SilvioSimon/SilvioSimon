@@ -105,7 +105,9 @@
   💻 Software development |
   🔐 Cybersecurity |  
   ✈️ Aviation technology |
-  🌐 Information Technology <br>
+  🌐 Information Technology |
+  📡 Networking  
+  <br>
 </div>
 
 <br>
