@@ -128,3 +128,15 @@
 <div align="center">
   <img width="100%" src="https://64.media.tumblr.com/tumblr_lp0f2fIhnF1qa2ip8o1_1280.gif" alt="footer gif"/>
 </div>
+
+<details>
+<summary>
+  GitHub Stats
+</summary>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SilvioSimon&show_icons=true&theme=tokyonight&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioSimon&layout=compact&theme=tokyonight&hide_border=true" height="280"/>
+</p>
