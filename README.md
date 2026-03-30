@@ -22,8 +22,8 @@
 <br>
 
 <div align="center">
-  
-[![GitHub Stats](https://ghstats.dev/api/card?username=SilvioSimon)](https://github.com/SilvioSimon)
+
+[![GitHub Stats](https://ghstats.dev/api/card?username=SilvioSimon&hide_title=true&border_radius=50)](https://github.com/rowkav09/GitHub-profile-stats)
 
 </div>
 
