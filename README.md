@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Silvio%20Simon&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&animation=fadeIn" alt="Silvio Simon profile banner"/>
 </div>
 
-<h3 align="center">Software Developer | Aviation Tech Specialist | Cybersecurity Enthusiast</h3>
+<h3 align="center">Software Developer | Cybersecurity Enthusiast</h3>
 
 <br>
 
