@@ -112,7 +112,6 @@
 <div align="center">
   💻 Software development |
   🔐 Cybersecurity |  
-  ✈️ Aviation technology |
   🌐 Information Technology |
   📡 Networking  
   <br>
