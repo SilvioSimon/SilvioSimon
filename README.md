@@ -136,6 +136,6 @@
   <img width="100%" src="https://64.media.tumblr.com/tumblr_lp0f2fIhnF1qa2ip8o1_1280.gif" alt="footer gif"/>
 </div>
 
-## 📈 Activity Graph
+<h2 align="center">ACTIVITY GRAPH</h2>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=silviosimon\&theme=tokyo-night\&hide_border=true)
