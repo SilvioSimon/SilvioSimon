@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://ghstats.dev/api/card?username=SilvioSimon&hide_title=true&border_radius=6)](https://github.com/rowkav09/GitHub-profile-stats)
+[![GitHub Stats](https://ghstats.dev/api/card?username=SilvioSimon&hide_title=true&border_radius=10)](https://github.com/rowkav09/GitHub-profile-stats)
 
 [![Top Languages](https://ghstats.dev/api/langs?username=SilvioSimon&max_langs=12)](https://github.com/rowkav09/GitHub-profile-stats)
 
