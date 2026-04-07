@@ -22,7 +22,7 @@
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=SilvioSimon&hide_border=true&hide_title=true&border_radius=50&hide=streak%2Ccommits%2Ccontributions)
 
-[![Top Languages](https://ghstats.dev/api/langs?username=SilvioSimon&max_langs=12)](https://github.com/rowkav09/GitHub-profile-stats)
+![Top Languages](https://ghstats.dev/api/langs?username=SilvioSimon&hide_border=true&border_radius=27&max_langs=12)
 
 </div>
 
