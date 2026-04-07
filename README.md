@@ -3,9 +3,7 @@
 </div>
 
 <h3 align="center">Software Developer | Cybersecurity Enthusiast</h3>
-
 <br>
-
 <h2 align="center">STATISTICS</h2>
 
 <p align="center">
@@ -20,7 +18,6 @@
 </div>
 
 <br>
-
 <div align="center">
 
 [![GitHub Stats](https://ghstats.dev/api/card?username=SilvioSimon&hide_title=true&border_radius=10)](https://github.com/rowkav09/GitHub-profile-stats)
@@ -46,7 +43,6 @@
 </div>
 
 <br>
-
 <h2 align="center">CERTIFICATION</h2>
 
 <div align="center">
@@ -57,14 +53,14 @@
           <img src="https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="60" alt="comptia security certification"/>
         </a>
           <br>
-          CompTIA Security+
+          <p>CompTIA Security+</p>  
       </td>
       <td align="center">
         <a href="https://www.credly.com/org/comptia/badge/comptia-network-ce-certification.1">
           <img src="https://images.credly.com/size/110x110/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" height="60" alt="comptia network certification"/>
         </a>
           <br>
-          CompTIA Network+
+          <p>CompTIA Network+</p>
       </td>
     </tr>
     <tr>
@@ -73,14 +69,14 @@
             <img src="https://images.credly.com/size/340x340/images/64199ea4-77c5-4bd5-8652-08c357b3330a/blob" height="50" alt="comptia linux lpi essential certificate"/>
           </a>
             <br>
-            LPI Linux Essentials
+            <p>LPI Linux Essentials</p>
       </td>
       <td align="center">
         <a href="https://learn.microsoft.com/de-ch/users/silviosimon-7317/credentials/c392a40a017ab9c7?ref=https%3A%2F%2Fwww.linkedin.com%2F">
           <img src="https://learn.microsoft.com/de-ch/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="50" alt="microsoft certificate ms-900"/>
         </a>
           <br>
-          Microsoft 365 Certified
+          <p>Microsoft 365 Certified</p>
       </td>
     </tr>
   </table>
@@ -88,38 +84,34 @@
 
 <div align="center">
   <a href="https://www.credly.com/users/silvio-simon">
-    View My Credly Badges
+    <p>View My Credly Badges</p>
   </a>
 </div>
 
 <br>
-
 <details>
-<summary>
-  More stuff about me
-</summary>
+<summary> More stuff about me </summary>
 
 <h2 align="center">ABOUT ME</h2>
 
 <div align="center">
   I’m passionate about learning and experimenting with new technology. I often focus on small improvements and writing little programs wherever I see gaps. Whether it’s clarifying documentation, fixing tiny bugs, creating mini-tools, or adding helpful examples, I like making things a bit easier for the next person. A   clean setup guide with real-world examples always makes me smile.
 </div>
-
 <br>
 
 <h2 align="center">INTERESTS</h2>
 
 <div align="center">
-  💻 Software development |
-  🔐 Cybersecurity |  
-  🌐 Information Technology |
-  📡 Networking  
+  <p>💻 Software development |</p>
+  <p>🔐 Cybersecurity |</p>
+  <p>🌐 Information Technology |</p>
+  <p>📡 Networking</p>  
   <br>
 </div>
 
 <br>
-
 <h2 align="center"> HOW TO REACH ME </h2>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/silvio-simon-it/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="View LinkedIn profile"></a>
   <a href="https://mail.google.com/mail/?view=cm&to=silvio.simon.it@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Send email"></a>
@@ -127,7 +119,6 @@
 </div>
 
 <br>
-
 <div align="center">
  <em><b>I enjoy connecting with people interested in technology.</b> :)</em> 
 </div>
