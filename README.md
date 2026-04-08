@@ -102,7 +102,7 @@
 <h2 align="center">INTERESTS</h2>
 
 <div align="center">
-  <p>💻 Software development | 🔐 Cybersecurity | 🌐 Information Technology |📡 Networking</p>  
+  <p>🌐 Information Technology | 📡 Networking | 💻 Software development | 🔐 Cybersecurity</p>  
   <br>
 </div>
 
