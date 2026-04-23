@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SilvioSimon&theme=github-dark-blue&hide_border=true&border_radius=80" height="220" alt="GitHub streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=SilvioSimon&theme=github-dark-blue&hide_border=true&border_radius=40" height="220" alt="GitHub streak stats"/>
 </div>
 
 <br>
