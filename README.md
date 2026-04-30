@@ -94,7 +94,13 @@
 <h2 align="center">ABOUT ME</h2>
 
 <div align="center">
-  I’m passionate about learning and experimenting with new technology. I often focus on small improvements and writing little programs wherever I see gaps. Whether it’s clarifying documentation, fixing tiny bugs, creating mini-tools, or adding helpful examples, I like making things a bit easier for the next person. A   clean setup guide with real-world examples always makes me smile.
+I’m an IT professional transitioning into Cybersecurity, with a strong foundation in networking and system fundamentals. 
+I enjoy analyzing systems, understanding how things break, and improving them step by step.
+
+Currently, I focus on building practical skills in security operations (SOC), including log analysis, threat detection, and incident response basics. 
+I value structured learning, hands-on labs, and real-world scenarios over theory alone.
+
+With certifications like CompTIA Security+ and Network+, I aim to grow into a role where I can actively contribute to detecting and mitigating security threats.
 </div>
 <br>
 
