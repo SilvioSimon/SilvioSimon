@@ -14,13 +14,13 @@
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SilvioSimon&theme=github-dark-blue&hide_border=true&border_radius=40" height="220" alt="GitHub streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=SilvioSimon&theme=github-dark-blue&hide_border=true&border_radius=27" height="220" alt="GitHub streak stats"/>
 </div>
 
 <br>
 <div align="center">
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=SilvioSimon&hide_border=true&hide_title=true&border_radius=50&hide=streak%2Ccommits%2Ccontributions)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=SilvioSimon&hide_border=true&hide_title=true&border_radius=27&hide=streak%2Ccommits%2Ccontributions)
 
 ![Top Languages](https://ghstats.dev/api/langs?username=SilvioSimon&hide_border=true&border_radius=27&max_langs=12)
 
