@@ -94,11 +94,10 @@
 <h2 align="center">ABOUT ME</h2>
 
 <div align="center">
-I’m an IT professional transitioning into Cybersecurity, with a strong foundation in networking and system fundamentals. 
-I enjoy analyzing systems, understanding how things break, and improving them step by step.
+I’m an aspiring SOC Analyst with a background in IT and a strong focus on cybersecurity fundamentals. I have hands-on experience with networking concepts, system basics, and security monitoring through labs and self-driven projects.
+Currently, I am building practical SOC skills such as log analysis, threat detection, and basic incident response using real-world scenarios and platforms like TryHackMe and LetsDefend.
 
-Currently, I focus on building practical skills in security operations (SOC), including log analysis, threat detection, and incident response basics. 
-I value structured learning, hands-on labs, and real-world scenarios over theory alone.
+I hold CompTIA Security+ and Network+ certifications and aim to start my career in a Security Operations Center, where I can contribute to identifying and responding to security incidents while continuously improving my technical skills.”
 
 With certifications like CompTIA Security+ and Network+, I aim to grow into a role where I can actively contribute to detecting and mitigating security threats.
 </div>
