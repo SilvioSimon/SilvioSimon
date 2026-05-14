@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Silvio%20Simon&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&animation=fadeIn" alt="Silvio Simon profile banner"/>
 </div>
 
-<h3 align="center">Cybersecurity | Software Developer</h3>
+<h3 align="center">IT Support | Cybersecurity | Software Developer</h3>
 <br>
 <h2 align="center">STATISTICS</h2>
 
@@ -94,12 +94,13 @@
 <h2 align="center">ABOUT ME</h2>
 
 <div align="center">
-I’m an aspiring SOC Analyst with a background in IT and a strong focus on cybersecurity fundamentals. I have hands-on experience with networking concepts, system basics, and security monitoring through labs and self-driven projects.
-Currently, I am building practical SOC skills such as log analysis, threat detection, and basic incident response using real-world scenarios and platforms like TryHackMe and LetsDefend.
+Started with aviation technology ✈️ and developed a strong passion for IT, cybersecurity, and software development.<br><br>
 
-I hold CompTIA Security+ and Network+ certifications and aim to start my career in a Security Operations Center, where I can contribute to identifying and responding to security incidents while continuously improving my technical skills.”
+I enjoy learning through hands-on labs, home projects, and platforms like <b>TryHackMe</b> and <b>LetsDefend</b>, where I continuously improve my practical skills and problem-solving abilities.<br><br>
 
-With certifications like CompTIA Security+ and Network+, I aim to grow into a role where I can actively contribute to detecting and mitigating security threats.
+I also enjoy web development and creating modern, responsive websites while improving my frontend and programming skills.<br><br>
+
+Currently expanding my knowledge in networking, Linux, cybersecurity, and modern web technologies while continuing my transition into the IT field.
 </div>
 <br>
 
