@@ -94,11 +94,11 @@
 <h2 align="center">ABOUT ME</h2>
 
 <div align="center">
-Started with aviation technology ✈️ and developed a strong passion for IT, cybersecurity, and software development.<br><br>
+Started with aviation technology ✈️ and developed a strong passion for IT, cybersecurity, and software development.<br>
 
-I enjoy learning through hands-on labs, home projects, and platforms like <b>TryHackMe</b> and <b>LetsDefend</b>, where I continuously improve my practical skills and problem-solving abilities.<br><br>
+I enjoy learning through hands-on labs, home projects, and platforms like <b>TryHackMe</b> and <b>LetsDefend</b>, where I continuously improve my practical skills and problem-solving abilities.<br>
 
-I also enjoy web development and creating modern, responsive websites while improving my frontend and programming skills.<br><br>
+I also enjoy web development and creating modern, responsive websites while improving my frontend and programming skills.<br>
 
 Currently expanding my knowledge in networking, Linux, cybersecurity, and modern web technologies while continuing my transition into the IT field.
 </div>
