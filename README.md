@@ -96,7 +96,7 @@
 <div align="center">
 Started with aviation technology ✈️ and developed a strong passion for IT, cybersecurity, and software development.<br>
 
-I enjoy learning through hands-on labs, home projects, and platforms like <b>TryHackMe</b> and <b>LetsDefend</b>, where I continuously improve my practical skills and problem-solving abilities.<br>
+I enjoy learning through hands-on labs, home projects, and platforms like <b>HTB</b> and <b>LetsDefend</b>, where I continuously improve my practical skills and problem-solving abilities.<br>
 
 I also enjoy web development and creating modern, responsive websites while improving my frontend and programming skills.<br>
 
