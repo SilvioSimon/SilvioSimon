@@ -101,6 +101,12 @@ Currently building projects around:
 - Web application development
 - JavaScript
 
+Planned focus:
+- CI/CD pipelines (DevSecOps workflows)
+- Docker & containerization
+- Cloud fundamentals (deployment & infrastructure)
+- Linux administration & system hardening
+
 </div>
 <br>
 
