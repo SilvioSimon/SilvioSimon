@@ -100,17 +100,17 @@ Started with aviation technology ✈️ and developed a strong passion for IT, c
 <p>
 I enjoy learning through hands-on labs, home projects, and platforms like <b>HTB</b> and <b>LetsDefend</b>, where I continuously improve my practical skills and problem-solving abilities.
 </p>
+<br>
 
 <h3>Currently building projects around:</h3>
-
 <ul>
   <li>Network security & monitoring</li>
   <li>Web application development</li>
   <li>JavaScript</li>
 </ul>
 <br>
-<h3>Planned focus:</h3>
 
+<h3>Planned focus:</h3>
 <ul>
   <li>CI/CD pipelines (DevSecOps workflows)</li>
   <li>Docker & containerization</li>
