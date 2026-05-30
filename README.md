@@ -131,7 +131,6 @@ I enjoy learning through hands-on labs, home projects, and platforms like <b>HTB
 <br>
 <h2 align="center"> HOW TO REACH ME </h2>
 
-
 <div align="center">
   
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/silvio-simon-it/)
