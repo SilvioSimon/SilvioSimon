@@ -4,7 +4,7 @@
 
 <h3 align="center">IT Support | Cybersecurity | Cloud | DevSecOps</h3>
 <br>
-<h2 align="center">STATISTICS</h2>
+<h2 align="center">GITHUB STATISTICS</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SilvioSimon&color=blue" alt="Profile views"/>
