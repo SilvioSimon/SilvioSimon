@@ -94,7 +94,7 @@
 <div align="center">
 
 <p>
-Started with aviation technology ✈️ and developed a strong passion for IT, cybersecurity, and software development.
+Started with aviation technology and developed a strong passion for IT, cybersecurity, and software development.
 </p>
 
 <p>
