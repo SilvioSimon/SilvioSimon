@@ -13,18 +13,11 @@
     </a>
 </p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SilvioSimon&theme=github-dark-blue&hide_border=true&border_radius=32" height="220" alt="GitHub streak stats"/>
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=silviosimon\&theme=tokyo-night\&hide_border=true)
+
 
 <br>
-<div align="center">
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=SilvioSimon&hide_border=true&hide_title=true&border_radius=32&hide=streak%2Ccommits%2Ccontributions)
-
-![Top Languages](https://ghstats.dev/api/langs?username=SilvioSimon&hide_border=true&border_radius=32&max_langs=12)
-
-</div>
 
 <h2 align="center">TECH STACK</h2>
 
@@ -145,4 +138,15 @@ I enjoy learning through hands-on labs, home projects, and platforms like <b>HTB
 
 <h2 align="center">ACTIVITY GRAPH</h2>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=silviosimon\&theme=tokyo-night\&hide_border=true)
+<div align="center">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SilvioSimon&theme=github-dark-blue&hide_border=true&border_radius=32" height="220" alt="GitHub streak stats"/>
+</div>
+
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=SilvioSimon&hide_border=true&hide_title=true&border_radius=32&hide=streak%2Ccommits%2Ccontributions)
+
+![Top Languages](https://ghstats.dev/api/langs?username=SilvioSimon&hide_border=true&border_radius=32&max_langs=12)
+
+</div>
