@@ -147,7 +147,7 @@ I enjoy learning through hands-on labs, home projects, and platforms like <b>HTB
 
 <details>
 <summary> More Stats  </summary>
-
+<br>
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=SilvioSimon&hide_border=true&hide_title=true&border_radius=32&hide=streak%2Ccommits%2Ccontributions)
 
