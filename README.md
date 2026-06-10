@@ -4,7 +4,9 @@
 
 <h3 align="center">IT Support | Cybersecurity | Cloud
 <br>
+<br>
 <h2 align="center">GITHUB STATISTICS</h2>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SilvioSimon&color=blue" alt="Profile views"/>
@@ -12,17 +14,18 @@
       <img src="https://img.shields.io/badge/GitHub-Follow-blue?style=flat&logo=github" alt="Follow"/>
     </a>
 </p>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SilvioSimon&theme=github-dark-blue&hide_border=true&border_radius=32" height="220" alt="GitHub streak stats"/>
-</div>
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=SilvioSimon&hide_border=true&hide_title=true&border_radius=32&hide=streak%2Ccommits%2Ccontributions)
+
+![Top Languages](https://ghstats.dev/api/langs?username=SilvioSimon&hide_border=true&border_radius=32&max_langs=12)
+
 <br>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=silviosimon\&theme=tokyo-night\&hide_border=true)
 
-
 <br>
-
+</div>
 
 <h2 align="center">TECH STACK</h2>
 
@@ -149,9 +152,7 @@ I enjoy learning through hands-on labs, home projects, and platforms like <b>HTB
 <summary> More Stats  </summary>
 <br>
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=SilvioSimon&hide_border=true&hide_title=true&border_radius=32&hide=streak%2Ccommits%2Ccontributions)
-
-![Top Languages](https://ghstats.dev/api/langs?username=SilvioSimon&hide_border=true&border_radius=32&max_langs=12)
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SilvioSimon&theme=github-dark-blue&hide_border=true&border_radius=32" height="220" alt="GitHub streak stats"/>
 </div>
 
