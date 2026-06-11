@@ -149,8 +149,4 @@ I enjoy learning through hands-on labs, home projects, and platforms like <b>HTB
 
 <div align="center">
 
-<details>
-<summary> More Stats  </summary>
-<br>
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=silviosimon\&theme=tokyo-night\&hide_border=true)
