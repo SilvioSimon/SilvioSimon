@@ -104,9 +104,9 @@ I enjoy learning through hands-on labs, home projects, and platforms like <b>HTB
 
 <h3>Currently building projects around:</h3>
 <ul>
-  <li>Network security & monitoring</li>
+  <li>Network</li>
   <li>Web application development</li>
-  <li>JavaScript</li>
+  <li>Cyber Security</li>
 </ul>
 <br>
 
