@@ -1,13 +1,12 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Silvio%20Simon&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&animation=fadeIn" alt="Silvio Simon profile banner"/>
+<h3 align="center">IT Support | Cybersecurity | Cloud</h3>
+<br>
+<br>
+<br>
 </div>
 
-<h3 align="center">IT Support | Cybersecurity | Cloud
-<br>
-<br>
-<br>
 <h1 align="center">GITHUB STATISTICS</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SilvioSimon&color=blue" alt="Profile views"/>
     <a href="https://github.com/SilvioSimon?tab=following">
@@ -15,11 +14,9 @@
     </a>
 </p>
 <div align="center">
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SilvioSimon&theme=github-dark-blue&hide_border=true&border_radius=32" height="220" alt="GitHub streak stats"/>
 </div>
-
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=SilvioSimon&hide_border=true&hide_title=true&border_radius=32&hide=streak%2Ccommits%2Ccontributions)
 
@@ -27,7 +24,6 @@
 </div>
 
 <h1 align="center">TECH STACK</h1>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -91,9 +87,7 @@
 <summary> More stuff about me </summary>
 
 <h1 align="center">ABOUT ME</h1>
-
 <div align="center">
-
 <p>Started in aviation technology and developed a strong passion for information technology, networking, cloud computing, and software development.</p>
 
 <p>I enjoy learning through hands-on labs, home projects, and practical experimentation, continuously expanding my technical knowledge and problem-solving skills. Platforms such as HTB and LetsDefend help me strengthen my understanding of cybersecurity concepts as part of a broader IT skill set.</p>
@@ -137,22 +131,22 @@
   </table>
 </div>
 <br>
-<h1 align="center"> HOW TO REACH ME </h1>
 
+<h1 align="center"> HOW TO REACH ME </h1>
 <div align="center">
   
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/silvio-simon-it/)
 [![Email](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:silvio.simon.it@gmail.com)
 [![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discord.gg/3f6Fgm7W)
 </div>
-
 <div align="center">
  <em><b>I enjoy connecting with people interested in technology.</b> :)</em> 
 </div>
 <br>
 <br>
-<h1 align="center">ACTIVITY GRAPH</h1>
 
+
+<h1 align="center">ACTIVITY GRAPH</h1>
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=silviosimon\&theme=tokyo-night\&hide_border=true)
