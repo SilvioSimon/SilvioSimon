@@ -1,7 +1,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Silvio%20Simon&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&animation=fadeIn" alt="Silvio Simon profile banner"/>
-<h3 align="center">IT Support | Cybersecurity | Cloud</h3>
-<br>
+<h3 align="center">IT-SUPPORT | CYBERSECURITY | CLOUD</h3>
 <br>
 <br>
 </div>
