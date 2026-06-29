@@ -100,25 +100,34 @@ Started with aviation technology and developed a strong passion for IT, cybersec
 <p>
 I enjoy learning through hands-on labs, home projects, and platforms like <b>HTB</b> and <b>LetsDefend</b>, where I continuously improve my practical skills and problem-solving abilities.
 </p>
+
 <br>
 
-<h3>Currently building projects around:</h3>
-<ul>
-  <li>Network</li>
-  <li>Web application development</li>
-  <li>Cyber Security</li>
-</ul>
-<br>
-
-<h3>Planned focus:</h3>
-<ul>
-  <li>CI/CD pipelines (DevSecOps workflows)</li>
-  <li>Docker & containerization</li>
-  <li>Cloud fundamentals (deployment & infrastructure)</li>
-  <li>Linux administration & system hardening</li>
-</ul>
-
+<div align="center">
+  <table>
+    <tr>
+    <td>
+      <ul>
+        <h2>Currently building projects around:</h2>
+        <li>Network</li>
+        <li>Web application development</li>
+        <li>Cyber Security</li>
+        <li>Automation</li>
+      </ul> 
+    </td>
+    <td>
+      <ul>
+        <h2>Planned focus:</h2>
+        <li>CI/CD pipelines (DevSecOps workflows)</li>
+        <li>Docker & containerization</li>
+        <li>Cloud fundamentals (deployment & infrastructure)</li>
+        <li>Linux administration & system hardening</li>
+      </ul>
+      </td>
+    </tr>
+  </table>
 </div>
+
 <br>
 
 <h2 align="center">INTERESTS</h2>
