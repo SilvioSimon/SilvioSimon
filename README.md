@@ -5,8 +5,8 @@
 <h3 align="center">IT Support | Cybersecurity | Cloud
 <br>
 <br>
-<h2 align="center">GITHUB STATISTICS</h2>
-
+<br>
+<h1 align="center">GITHUB STATISTICS</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SilvioSimon&color=blue" alt="Profile views"/>
@@ -26,7 +26,7 @@
 <br>
 </div>
 
-<h2 align="center">TECH STACK</h2>
+<h1 align="center">TECH STACK</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -38,9 +38,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
 <br>
-<h2 align="center">CERTIFICATION</h2>
+<br>
+<br>
+<h1 align="center">CERTIFICATION</h1>
 
 <div align="center">
   <table>
@@ -89,19 +90,27 @@
 <details>
 <summary> More stuff about me </summary>
 
-<h2 align="center">ABOUT ME</h2>
+<h1 align="center">ABOUT ME</h1>
 
 <div align="center">
 
-<p>
-Started with aviation technology and developed a strong passion for IT, cybersecurity, and software development.
-</p>
+<p>Started in aviation technology and developed a strong passion for information technology, networking, cloud computing, and software development.</p>
 
-<p>
-I enjoy learning through hands-on labs, home projects, and platforms like <b>HTB</b> and <b>LetsDefend</b>, where I continuously improve my practical skills and problem-solving abilities.
-</p>
+<p>I enjoy learning through hands-on labs, home projects, and practical experimentation, continuously expanding my technical knowledge and problem-solving skills. Platforms such as HTB and LetsDefend help me strengthen my understanding of cybersecurity concepts as part of a broader IT skill set.</p>
+
+<p>I am particularly interested in building and managing IT infrastructure, developing applications, automating processes, and exploring modern cloud technologies. I value continuous learning and enjoy turning theoretical concepts into practical projects that improve my technical and analytical abilities.</p>
 
 <br>
+  <table>
+    <tr>
+    <td>
+      <ul>
+        <h2>Interests</h2>
+        <li>🌐Information Technology | 📡Networking | ☁️Cloud Computing | 💻Software Development | 🔐Cybersecurity</li>
+      </ul> 
+    </td>
+  </table>
+</div>
 
 <div align="center">
   <table>
@@ -127,18 +136,8 @@ I enjoy learning through hands-on labs, home projects, and platforms like <b>HTB
     </tr>
   </table>
 </div>
-
 <br>
-
-<h2 align="center">INTERESTS</h2>
-
-<div align="center">
-  <p>🌐 Information Technology | 📡 Networking | 💻 Software development | 🔐 Cybersecurity</p>  
-  <br>
-</div>
-
-<br>
-<h2 align="center"> HOW TO REACH ME </h2>
+<h1 align="center"> HOW TO REACH ME </h1>
 
 <div align="center">
   
@@ -147,12 +146,12 @@ I enjoy learning through hands-on labs, home projects, and platforms like <b>HTB
 [![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discord.gg/3f6Fgm7W)
 </div>
 
-<br>
 <div align="center">
  <em><b>I enjoy connecting with people interested in technology.</b> :)</em> 
 </div>
-
-<h2 align="center">ACTIVITY GRAPH</h2>
+<br>
+<br>
+<h1 align="center">ACTIVITY GRAPH</h1>
 
 <div align="center">
 
