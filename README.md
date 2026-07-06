@@ -114,7 +114,7 @@
         <li>Network</li>
         <li>Web application development</li>
         <li>Cyber Security</li>
-        <li>Automation</li>
+        <li>IT Support</li>
       </ul> 
     </td>
     <td>
@@ -122,7 +122,7 @@
         <h2>Planned focus:</h2>
         <li>CI/CD pipelines (DevSecOps workflows)</li>
         <li>Docker & containerization</li>
-        <li>Cloud fundamentals (deployment & infrastructure)</li>
+        <li>Cloud fundamentals</li>
         <li>Linux administration & system hardening</li>
       </ul>
       </td>
