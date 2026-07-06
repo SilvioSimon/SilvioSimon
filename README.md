@@ -99,7 +99,7 @@
     <td>
       <ul>
         <h2>Interests</h2>
-        <li>🌐Information Technology | 📡Networking | ☁️Cloud Computing | 💻Software Development | 🔐Cybersecurity</li>
+        <li>🌐ICT 📡Networking ☁️Cloud Computing 💻Software Development 🔐Cybersecurity</li>
       </ul> 
     </td>
   </table>
@@ -110,7 +110,7 @@
     <tr>
     <td>
       <ul>
-        <h2>Currently building projects around:</h2>
+        <h2>Building projects around:</h2>
         <li>Network</li>
         <li>Web application development</li>
         <li>Cyber Security</li>
