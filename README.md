@@ -2,9 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Silvio%20Simon&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&animation=fadeIn" alt="Silvio Simon profile banner"/>
 <h3 align="center">IT SUPPORT | MICROSOFT 365 | CYBERSECURITY</h3>
 <br>
-  <a href="https://mimo.org/web/shared/8635762?selectedFile=index.html">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0078D4?style=for-the-badge" alt="Visit my portfolio"/>
-  </a>
 <br>
 </div>
 
